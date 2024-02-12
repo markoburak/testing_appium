@@ -1,0 +1,15 @@
+{
+  "general": {
+      "local": {
+        "server_url": "http://localhost:4723/wd/hub"
+      },
+      "server": {
+        "server_url": ""
+      },
+      "platform_name": "Android",
+      "device_name": "Pixel 7 Pro",
+      "app": "notes-2-3-8.apk",
+      "ignoreHiddenApiPolicyError": "true",
+      "autoGrantPermissions": "true"
+  }
+}
